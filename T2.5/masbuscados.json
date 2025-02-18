@@ -2,97 +2,40 @@
     "personas": [
         {
             "persona": {
-                "Nombre": "KOVÁČ, Vilém",
+                "Nombre": "ZÁMEČNÍKOVÁ, Eva",
                 "Alias": "",
-                "Pais": "by Czech Republic",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances Participation in a criminal organisation",
-                "Sexo": "Male",
-                "Altura": "175 cm",
-                "Color_ojos": "Brown",
+                "Pais": "by Slovakia",
+                "Crimen": "Attempted Murder",
+                "Sexo": "Female",
+                "Altura": "",
+                "Color_ojos": "",
                 "Identificadores": "",
-                "Fecha_nac": "October 10, 1974 (50 years)",
-                "Nacionalidad": "Czech",
-                "Etnia": "European",
-                "Idiomas": "Czech",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 10, 2023, last modified on November 10, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "DE LA CAMARA GUISADO, Ramón",
-                "Alias": "Ramon CAMARA GUISADO",
-                "Pais": "by Spain",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "155cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "August 29, 1952 (72 years)",
-                "Nacionalidad": "Spanish",
-                "Etnia": "European",
-                "Idiomas": "Spanish",
-                "Estado_caso": "Failed to attend court",
-                "Fecha_publicacion": "on December 5, 2023, last modified on December 14, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "SHIPLEY, Jesse Robert",
-                "Alias": "",
-                "Pais": "by Finland",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
-                "Sexo": "Male",
-                "Altura": "185",
-                "Color_ojos": "Blue",
-                "Identificadores": "",
-                "Fecha_nac": "June 30, 1997 (27 years)",
-                "Nacionalidad": "Finnish",
+                "Fecha_nac": "October 16, 1981 (43 years)",
+                "Nacionalidad": "Slovak",
                 "Etnia": "",
-                "Idiomas": "English Finnish",
-                "Estado_caso": "Sentenced to 12 years 2 months years of prison",
-                "Fecha_publicacion": "on June 4, 2024, last modified on June 4, 2024",
-                "Imagen": "b"
+                "Idiomas": "Slovak",
+                "Estado_caso": "Sentenced to 8 years of prison",
+                "Fecha_publicacion": "on November 30, 2021, last modified on December 2, 2021",
+                "Imagen": ""
             }
         },
         {
             "persona": {
-                "Nombre": "EBBEN, Marco",
+                "Nombre": "LEIJDEKKERS, Joseph Johannes (Jos)",
                 "Alias": "",
                 "Pais": "by Netherlands",
                 "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
                 "Sexo": "Male",
-                "Altura": "190 cm",
-                "Color_ojos": "",
-                "Identificadores": "Body - Tattoo(s) Abstract Design",
-                "Fecha_nac": "March 31, 1992 (32 years)",
-                "Nacionalidad": "Dutch",
-                "Etnia": "",
-                "Idiomas": "",
-                "Estado_caso": "Sentenced to 7 years of prison",
-                "Fecha_publicacion": "on November 17, 2023, last modified on May 23, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "RUSIŅŠ , Leons",
-                "Alias": "",
-                "Pais": "by Latvia",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "191 cm",
-                "Color_ojos": "",
+                "Altura": "182 cm",
+                "Color_ojos": "Brown",
                 "Identificadores": "",
-                "Fecha_nac": "April 15, 1970 (54 years)",
-                "Nacionalidad": "Latvian",
-                "Etnia": "",
-                "Idiomas": "English Latvian Russian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on April 29, 2023, last modified on May 25, 2023",
-                "Imagen": "b"
+                "Fecha_nac": "July 1, 1991 (33 years)",
+                "Nacionalidad": "Dutch",
+                "Etnia": "European",
+                "Idiomas": "",
+                "Estado_caso": "Sentenced to 24 years of prison",
+                "Fecha_publicacion": "on May 20, 2022, last modified on February 17, 2025",
+                "Imagen": ""
             }
         },
         {
@@ -111,45 +54,7 @@
                 "Idiomas": "French",
                 "Estado_caso": "Sentenced to 20 years of prison",
                 "Fecha_publicacion": "on December 4, 2024, last modified on January 20, 2025",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "GÁL, János",
-                "Alias": "",
-                "Pais": "by Hungary",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "175 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "Arm(s) - Tattoo(s) Abstract Design",
-                "Fecha_nac": "March 25, 1982 (42 years)",
-                "Nacionalidad": "Hungarian",
-                "Etnia": "European",
-                "Idiomas": "Hungarian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 25, 2024, last modified on November 25, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "LEIJDEKKERS, Joseph Johannes (Jos)",
-                "Alias": "",
-                "Pais": "by Netherlands",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
-                "Sexo": "Male",
-                "Altura": "182 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "July 1, 1991 (33 years)",
-                "Nacionalidad": "Dutch",
-                "Etnia": "European",
-                "Idiomas": "",
-                "Estado_caso": "Sentenced to 24 years of prison",
-                "Fecha_publicacion": "on May 20, 2022, last modified on October 18, 2024",
-                "Imagen": "b"
+                "Imagen": ""
             }
         },
         {
@@ -168,121 +73,45 @@
                 "Idiomas": "Dutch",
                 "Estado_caso": "Sentenced to 29 years of prison",
                 "Fecha_publicacion": "on December 5, 2024, last modified on December 11, 2024",
-                "Imagen": "b"
+                "Imagen": ""
             }
         },
         {
             "persona": {
-                "Nombre": "SHEHAB AHMED, Ali",
+                "Nombre": "RUSIŅŠ , Leons",
                 "Alias": "",
-                "Pais": "by Sweden",
+                "Pais": "by Latvia",
                 "Crimen": "Murder, grievous bodily injury",
                 "Sexo": "Male",
-                "Altura": "172 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "March 4, 2004 (20 years)",
-                "Nacionalidad": "Swedish",
-                "Etnia": "",
-                "Idiomas": "Arabic",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 29, 2024, last modified on November 29, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "MOTISI, GIOVANNI",
-                "Alias": "",
-                "Pais": "by Italy",
-                "Crimen": "Murder, grievous bodily injury Participation in a criminal organisation",
-                "Sexo": "Male",
-                "Altura": "",
+                "Altura": "191 cm",
                 "Color_ojos": "",
                 "Identificadores": "",
-                "Fecha_nac": "January 1, 1959 (66 years)",
-                "Nacionalidad": "",
-                "Etnia": "European",
-                "Idiomas": "Italian",
-                "Estado_caso": "Convicted to life imprisonment",
-                "Fecha_publicacion": "on October 14, 2016, last modified on October 18, 2021",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "ŻYŁA, KAMIL",
-                "Alias": "",
-                "Pais": "by Poland",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "176-180 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "Body - Tattoo(s) Initial",
-                "Fecha_nac": "August 2, 1987 (37 years)",
-                "Nacionalidad": "Polish",
-                "Etnia": "European",
-                "Idiomas": "Polish",
+                "Fecha_nac": "April 15, 1970 (54 years)",
+                "Nacionalidad": "Latvian",
+                "Etnia": "",
+                "Idiomas": "English Latvian Russian",
                 "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on September 7, 2023, last modified on December 3, 2024",
-                "Imagen": "b"
+                "Fecha_publicacion": "on April 29, 2023, last modified on May 25, 2023",
+                "Imagen": ""
             }
         },
         {
             "persona": {
-                "Nombre": "SHAKIR, MUSTAFA MEHMED",
+                "Nombre": "EBBEN, Marco",
                 "Alias": "",
-                "Pais": "by Bulgaria",
+                "Pais": "by Netherlands",
                 "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
                 "Sexo": "Male",
-                "Altura": "",
+                "Altura": "190 cm",
                 "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "June 27, 1968 (56 years)",
-                "Nacionalidad": "Bulgarian",
-                "Etnia": "European",
-                "Idiomas": "Bulgarian Turkish",
-                "Estado_caso": "Sentenced to 16 years of prison",
-                "Fecha_publicacion": "on October 14, 2021, last modified on January 30, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "DJABRI, ABDENOUR",
-                "Alias": "",
-                "Pais": "by Poland",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "185 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "September 22, 1981 (43 years)",
-                "Nacionalidad": "Algerian",
-                "Etnia": "African",
-                "Idiomas": "Arabic English French",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on December 2, 2024, last modified on December 3, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "TOLOUN, Farid",
-                "Alias": "",
-                "Pais": "by France",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "1,75 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "December 27, 1972 (52 years)",
-                "Nacionalidad": "French",
-                "Etnia": "African",
-                "Idiomas": "Arabic French",
-                "Estado_caso": "Sentenced to 24 years of prison",
-                "Fecha_publicacion": "on September 28, 2022, last modified on December 23, 2024",
-                "Imagen": "b"
+                "Identificadores": "Body - Tattoo(s) Abstract Design",
+                "Fecha_nac": "March 31, 1992 (32 years)",
+                "Nacionalidad": "Dutch",
+                "Etnia": "",
+                "Idiomas": "",
+                "Estado_caso": "Sentenced to 7 years of prison",
+                "Fecha_publicacion": "on November 17, 2023, last modified on May 23, 2024",
+                "Imagen": ""
             }
         },
         {
@@ -301,520 +130,26 @@
                 "Idiomas": "Italian",
                 "Estado_caso": "Convicted to life imprisonment",
                 "Fecha_publicacion": "on September 27, 2022, last modified on September 27, 2022",
-                "Imagen": "b"
+                "Imagen": ""
             }
         },
         {
             "persona": {
-                "Nombre": "PANEK, DANIEL TOMASZ",
+                "Nombre": "TOLOUN, Farid",
                 "Alias": "",
-                "Pais": "by Slovenia",
-                "Crimen": "Rape",
-                "Sexo": "Male",
-                "Altura": "176 - 180 cm",
-                "Color_ojos": "Blue",
-                "Identificadores": "",
-                "Fecha_nac": "August 14, 1976 (48 years)",
-                "Nacionalidad": "Polish",
-                "Etnia": "European",
-                "Idiomas": "Czech English Italian Polish",
-                "Estado_caso": "Failed to attend court",
-                "Fecha_publicacion": "on August 20, 2024, last modified on August 20, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "MUNTEANU, ADRIAN",
-                "Alias": "",
-                "Pais": "by Romania",
-                "Crimen": "Participation in a criminal organisation Sexual exploitation of children and child pornography Trafficking in human beings",
-                "Sexo": "Male",
-                "Altura": "168 cm",
-                "Color_ojos": "Hazel",
-                "Identificadores": "",
-                "Fecha_nac": "August 5, 1983 (41 years)",
-                "Nacionalidad": "Romanian",
-                "Etnia": "European",
-                "Idiomas": "Romanian",
-                "Estado_caso": "Sentenced to 11,8 years of prison",
-                "Fecha_publicacion": "on November 16, 2023, last modified on November 16, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "KANYS, Renaldas",
-                "Alias": "",
-                "Pais": "by Lithuania",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances Murder, grievous bodily injury Participation in a criminal organisation",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "September 26, 1973 (51 years)",
-                "Nacionalidad": "Lithuanian",
-                "Etnia": "European",
-                "Idiomas": "",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on September 7, 2020, last modified on October 13, 2021",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "DRMIĆ, Tomislav",
-                "Alias": "",
-                "Pais": "by Croatia",
-                "Crimen": "Participation in a criminal organisation",
-                "Sexo": "Male",
-                "Altura": "176-180 cm",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "September 23, 1993 (31 years)",
-                "Nacionalidad": "Bosnian/Herzegovinian Croatian",
-                "Etnia": "",
-                "Idiomas": "Croatian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 15, 2023, last modified on December 3, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "OUALI, KARIM",
-                "Alias": "OUALI ADERFI",
                 "Pais": "by France",
                 "Crimen": "Murder, grievous bodily injury",
                 "Sexo": "Male",
-                "Altura": "179 cm",
+                "Altura": "1,75 cm",
                 "Color_ojos": "Brown",
-                "Identificadores": "Body - Tattoo(s) Picture Leg(s) - Tattoo(s) Abstract Design",
-                "Fecha_nac": "May 21, 1976 (48 years)",
+                "Identificadores": "",
+                "Fecha_nac": "December 27, 1972 (52 years)",
                 "Nacionalidad": "French",
-                "Etnia": "North-African",
-                "Idiomas": "Arabic English French Spanish",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 22, 2016, last modified on December 23, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "SCHUELER, Richard James",
-                "Alias": "",
-                "Pais": "by Finland",
-                "Crimen": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "October 9, 1979 (45 years)",
-                "Nacionalidad": "American",
-                "Etnia": "",
-                "Idiomas": "English",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on December 18, 2024, last modified on December 18, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "PETKOVSKI , ANTON ZHIVKOV",
-                "Alias": "Nashko",
-                "Pais": "by Bulgaria",
-                "Crimen": "Attempted Murder",
-                "Sexo": "Male",
-                "Altura": "Tall cm",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "October 11, 1966 (58 years)",
-                "Nacionalidad": "Bulgarian",
-                "Etnia": "European",
-                "Idiomas": "Bulgarian",
-                "Estado_caso": "Convicted to life imprisonment",
-                "Fecha_publicacion": "on August 19, 2019, last modified on January 30, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "NÕMME, Margus",
-                "Alias": "",
-                "Pais": "by Estonia",
-                "Crimen": "Sexual exploitation of children and child pornography",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "January 6, 1996 (29 years)",
-                "Nacionalidad": "Estonian",
-                "Etnia": "European",
-                "Idiomas": "Estonian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 10, 2023, last modified on November 10, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "BURRELI, Aleks",
-                "Alias": "BURELLI Gani",
-                "Pais": "by Κύπρος",
-                "Crimen": "Εμπρησμός με πρόθεση Φόνος, βαριά σωματική βλάβη",
-                "Sexo": "Άρρεν",
-                "Altura": "178 cm",
-                "Color_ojos": "Καφέ",
-                "Identificadores": "",
-                "Fecha_nac": "Φεβρουάριος 1, 1968 (57 years)",
-                "Nacionalidad": "",
-                "Etnia": "Ευρώπης",
-                "Idiomas": "Albanian",
-                "Estado_caso": "Υπό διερεύνηση",
-                "Fecha_publicacion": "on Νοέμβριος 23, 2016, last modified on Ιανουάριος 23, 2019",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "VESKUS, MIHKEL",
-                "Alias": "",
-                "Pais": "by Estonia",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
-                "Sexo": "Male",
-                "Altura": "180 cm",
-                "Color_ojos": "Grey",
-                "Identificadores": "",
-                "Fecha_nac": "September 4, 1984 (40 years)",
-                "Nacionalidad": "Estonian",
-                "Etnia": "",
-                "Idiomas": "Estonian",
-                "Estado_caso": "Failed to attend court",
-                "Fecha_publicacion": "on May 23, 2023, last modified on May 25, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "BALOGH, Engelbert",
-                "Alias": "",
-                "Pais": "by Hungary",
-                "Crimen": "Attempted Murder",
-                "Sexo": "Male",
-                "Altura": "172 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "Arm(s) - Tattoo(s) Picture Hand(s) - Tattoo(s) Mark",
-                "Fecha_nac": "December 3, 1993 (31 years)",
-                "Nacionalidad": "Hungarian",
-                "Etnia": "European",
-                "Idiomas": "German Hungarian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 22, 2024, last modified on November 22, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "OKOLIČANY, Róbert",
-                "Alias": "",
-                "Pais": "by Slovakia",
-                "Crimen": "Participation in a criminal organisation",
-                "Sexo": "Male",
-                "Altura": "178 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "Face - Scar(s)",
-                "Fecha_nac": "September 17, 1975 (49 years)",
-                "Nacionalidad": "Slovak",
-                "Etnia": "",
-                "Idiomas": "Hungarian",
-                "Estado_caso": "Convicted to life imprisonment",
-                "Fecha_publicacion": "on November 14, 2023, last modified on November 14, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "ZVICER, Radoje",
-                "Alias": "BABIC Josip geb. 06.02.1979 in Deutschland; GOJKOVIC Dragan geb. 08.09.1977 in Berane/Montenegro; GREPO David geb. 02.03.1983; KAROLY Ferenc geb. 31.03.1975; und weitere",
-                "Pais": "by Austria",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
-                "Sexo": "Male",
-                "Altura": "unbekannt",
-                "Color_ojos": "Blue",
-                "Identificadores": "",
-                "Fecha_nac": "December 20, 1982 (42 years)",
-                "Nacionalidad": "Montenegrin",
-                "Etnia": "European",
-                "Idiomas": "",
-                "Estado_caso": "",
-                "Fecha_publicacion": "on November 13, 2024, last modified on November 13, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "COTOS, ADRIAN",
-                "Alias": "",
-                "Pais": "by Romania",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
-                "Sexo": "Male",
-                "Altura": "180 cm",
-                "Color_ojos": "Green",
-                "Identificadores": "",
-                "Fecha_nac": "September 2, 1983 (41 years)",
-                "Nacionalidad": "Romanian",
-                "Etnia": "European",
-                "Idiomas": "Romanian",
-                "Estado_caso": "Sentenced to 10,5 years of prison",
-                "Fecha_publicacion": "on November 16, 2023, last modified on November 16, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "YONG GRANADINO, Cristian Hernan",
-                "Alias": "Chuki",
-                "Pais": "by Spain",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "July 11, 1980 (44 years)",
-                "Nacionalidad": "Peruvian",
-                "Etnia": "Latin-American",
-                "Idiomas": "Spanish",
-                "Estado_caso": "Failed to attend court",
-                "Fecha_publicacion": "on December 2, 2024, last modified on December 2, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "HAMID, NOUR EDDINE G IBRAHIM",
-                "Alias": "",
-                "Pais": "by Malta",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "Arm(s) - Tattoo(s) Picture Body - Tattoo(s) Picture",
-                "Fecha_nac": "August 7, 1980 (44 years)",
-                "Nacionalidad": "Libyan",
-                "Etnia": "",
-                "Idiomas": "Arabic English",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on January 18, 2017, last modified on October 30, 2022",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "AHMET, Sali",
-                "Alias": "Sali AHMED, Sali MUSA",
-                "Pais": "by Cyprus",
-                "Crimen": "Attempted Murder Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "June 12, 1973 (51 years)",
-                "Nacionalidad": "Bulgarian",
-                "Etnia": "European",
-                "Idiomas": "Bulgarian English Turkish",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on November 25, 2021, last modified on November 25, 2021",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "LAVRIČ, JANKO",
-                "Alias": "",
-                "Pais": "by Slovenia",
-                "Crimen": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests",
-                "Sexo": "Male",
-                "Altura": "+185 cm",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "April 4, 1963 (61 years)",
-                "Nacionalidad": "Slovene",
-                "Etnia": "European",
-                "Idiomas": "English German Russian Serbo-Croatian Slovenian",
-                "Estado_caso": "Failed to attend court",
-                "Fecha_publicacion": "on November 24, 2023, last modified on August 5, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "MONTASSAR , Ben Mahfoudh",
-                "Alias": "",
-                "Pais": "by Luxembourg",
-                "Crimen": "Attempted Murder",
-                "Sexo": "Male",
-                "Altura": "171-180 cm",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "December 3, 1996 (28 years)",
-                "Nacionalidad": "Tunisian",
-                "Etnia": "North-African",
-                "Idiomas": "Arabic English French",
-                "Estado_caso": "Sentenced to 10 years of prison",
-                "Fecha_publicacion": "on December 6, 2024, last modified on December 9, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "JANKEVICS, Māris",
-                "Alias": "",
-                "Pais": "by Latvia",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "January 24, 1979 (46 years)",
-                "Nacionalidad": "Latvian",
-                "Etnia": "European",
-                "Idiomas": "",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on February 16, 2024, last modified on February 16, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "ZÁMEČNÍKOVÁ, Eva",
-                "Alias": "",
-                "Pais": "by Slovakia",
-                "Crimen": "Attempted Murder",
-                "Sexo": "Female",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "October 16, 1981 (43 years)",
-                "Nacionalidad": "Slovak",
-                "Etnia": "",
-                "Idiomas": "Slovak",
-                "Estado_caso": "Sentenced to 8 years of prison",
-                "Fecha_publicacion": "on November 30, 2021, last modified on December 2, 2021",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "NAURBAYEV, Saidkhuseyn",
-                "Alias": "",
-                "Pais": "by Czech Republic",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "176 cm",
-                "Color_ojos": "Black",
-                "Identificadores": "",
-                "Fecha_nac": "April 23, 1985 (39 years)",
-                "Nacionalidad": "Russian",
-                "Etnia": "European",
-                "Idiomas": "Russian",
-                "Estado_caso": "Sentenced to 17,5 years of prison",
-                "Fecha_publicacion": "on November 29, 2024, last modified on November 29, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "POZARICKIJ, DARIUS",
-                "Alias": "",
-                "Pais": "by Lithuania",
-                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
-                "Sexo": "Male",
-                "Altura": "",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "February 5, 1980 (45 years)",
-                "Nacionalidad": "Lithuanian",
-                "Etnia": "",
-                "Idiomas": "",
-                "Estado_caso": "Sentenced to 11 years of prison",
-                "Fecha_publicacion": "on November 13, 2023, last modified on November 13, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "KHODOR, Abdullah",
-                "Alias": "",
-                "Pais": "by Luxembourg",
-                "Crimen": "Kidnapping, illegal restraint and hostage-taking Laundering of the proceeds of crime Organised or armed robbery Participation in a criminal organisation",
-                "Sexo": "Male",
-                "Altura": "181 cm",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "December 30, 1998 (26 years)",
-                "Nacionalidad": "German Libyan",
-                "Etnia": "European",
-                "Idiomas": "",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on March 9, 2022, last modified on February 3, 2025",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "VACLAVEK, Vladimir",
-                "Alias": "",
-                "Pais": "by Croatia",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "176-180 cm",
-                "Color_ojos": "",
-                "Identificadores": "",
-                "Fecha_nac": "January 13, 1981 (44 years)",
-                "Nacionalidad": "Croatian",
-                "Etnia": "",
-                "Idiomas": "Croatian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on December 3, 2024, last modified on December 3, 2024",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "QATRA, Amin",
-                "Alias": "",
-                "Pais": "by Denmark",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "178 cm",
-                "Color_ojos": "Brown",
-                "Identificadores": "",
-                "Fecha_nac": "November 24, 1989 (35 years)",
-                "Nacionalidad": "Afghan",
-                "Etnia": "",
-                "Idiomas": "",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on July 11, 2016, last modified on April 23, 2023",
-                "Imagen": "b"
-            }
-        },
-        {
-            "persona": {
-                "Nombre": "FOCO, Tibor",
-                "Alias": "",
-                "Pais": "by Austria",
-                "Crimen": "Murder, grievous bodily injury",
-                "Sexo": "Male",
-                "Altura": "175 cm",
-                "Color_ojos": "Blue",
-                "Identificadores": "Arm(s) - Scar(s)",
-                "Fecha_nac": "April 18, 1956 (68 years)",
-                "Nacionalidad": "Austrian",
-                "Etnia": "European",
-                "Idiomas": "English French German Hungarian",
-                "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on September 17, 2015, last modified on June 3, 2022",
-                "Imagen": "b"
+                "Etnia": "African",
+                "Idiomas": "Arabic French",
+                "Estado_caso": "Sentenced to 24 years of prison",
+                "Fecha_publicacion": "on September 28, 2022, last modified on December 23, 2024",
+                "Imagen": ""
             }
         },
         {
@@ -833,26 +168,83 @@
                 "Idiomas": "Swedish",
                 "Estado_caso": "Ongoing investigation",
                 "Fecha_publicacion": "on November 29, 2024, last modified on November 29, 2024",
-                "Imagen": "b"
+                "Imagen": ""
             }
         },
         {
             "persona": {
-                "Nombre": "OMAIRAT, Walid",
-                "Alias": "",
-                "Pais": "by Germany",
+                "Nombre": "DE LA CAMARA GUISADO, Ramón",
+                "Alias": "Ramon CAMARA GUISADO",
+                "Pais": "by Spain",
                 "Crimen": "Murder, grievous bodily injury",
                 "Sexo": "Male",
-                "Altura": "158 cm",
+                "Altura": "155cm",
                 "Color_ojos": "Brown",
                 "Identificadores": "",
-                "Fecha_nac": "January 1, 1978 (47 years)",
-                "Nacionalidad": "Lebanese",
+                "Fecha_nac": "August 29, 1952 (72 years)",
+                "Nacionalidad": "Spanish",
+                "Etnia": "European",
+                "Idiomas": "Spanish",
+                "Estado_caso": "Failed to attend court",
+                "Fecha_publicacion": "on December 5, 2023, last modified on December 14, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "SCHUELER, Richard James",
+                "Alias": "",
+                "Pais": "by Finland",
+                "Crimen": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "October 9, 1979 (45 years)",
+                "Nacionalidad": "American",
                 "Etnia": "",
-                "Idiomas": "German Lebanese",
+                "Idiomas": "English",
                 "Estado_caso": "Ongoing investigation",
-                "Fecha_publicacion": "on January 22, 2025, last modified on January 22, 2025",
-                "Imagen": "b"
+                "Fecha_publicacion": "on December 18, 2024, last modified on December 18, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "BURRELI, Aleks",
+                "Alias": "BURELLI Gani",
+                "Pais": "by Κύπρος",
+                "Crimen": "Εμπρησμός με πρόθεση Φόνος, βαριά σωματική βλάβη",
+                "Sexo": "Άρρεν",
+                "Altura": "178 cm",
+                "Color_ojos": "Καφέ",
+                "Identificadores": "",
+                "Fecha_nac": "Φεβρουάριος 1, 1968 (57 years)",
+                "Nacionalidad": "",
+                "Etnia": "Ευρώπης",
+                "Idiomas": "Albanian",
+                "Estado_caso": "Υπό διερεύνηση",
+                "Fecha_publicacion": "on Νοέμβριος 23, 2016, last modified on Ιανουάριος 23, 2019",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "MUNTEANU, ADRIAN",
+                "Alias": "",
+                "Pais": "by Romania",
+                "Crimen": "Participation in a criminal organisation Sexual exploitation of children and child pornography Trafficking in human beings",
+                "Sexo": "Male",
+                "Altura": "168 cm",
+                "Color_ojos": "Hazel",
+                "Identificadores": "",
+                "Fecha_nac": "August 5, 1983 (41 years)",
+                "Nacionalidad": "Romanian",
+                "Etnia": "European",
+                "Idiomas": "Romanian",
+                "Estado_caso": "Sentenced to 11,8 years of prison",
+                "Fecha_publicacion": "on November 16, 2023, last modified on November 16, 2023",
+                "Imagen": ""
             }
         },
         {
@@ -871,7 +263,273 @@
                 "Idiomas": "Danish",
                 "Estado_caso": "Escaped from prison",
                 "Fecha_publicacion": "on October 1, 2021, last modified on April 23, 2023",
-                "Imagen": "b"
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "POZARICKIJ, DARIUS",
+                "Alias": "",
+                "Pais": "by Lithuania",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "February 5, 1980 (45 years)",
+                "Nacionalidad": "Lithuanian",
+                "Etnia": "",
+                "Idiomas": "",
+                "Estado_caso": "Sentenced to 11 years of prison",
+                "Fecha_publicacion": "on November 13, 2023, last modified on November 13, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "MOTISI, GIOVANNI",
+                "Alias": "",
+                "Pais": "by Italy",
+                "Crimen": "Murder, grievous bodily injury Participation in a criminal organisation",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "January 1, 1959 (66 years)",
+                "Nacionalidad": "",
+                "Etnia": "European",
+                "Idiomas": "Italian",
+                "Estado_caso": "Convicted to life imprisonment",
+                "Fecha_publicacion": "on October 14, 2016, last modified on October 18, 2021",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "SHAKIR, MUSTAFA MEHMED",
+                "Alias": "",
+                "Pais": "by Bulgaria",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "June 27, 1968 (56 years)",
+                "Nacionalidad": "Bulgarian",
+                "Etnia": "European",
+                "Idiomas": "Bulgarian Turkish",
+                "Estado_caso": "Sentenced to 16 years of prison",
+                "Fecha_publicacion": "on October 14, 2021, last modified on January 30, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "FOCO, Tibor",
+                "Alias": "",
+                "Pais": "by Austria",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "175 cm",
+                "Color_ojos": "Blue",
+                "Identificadores": "Arm(s) - Scar(s)",
+                "Fecha_nac": "April 18, 1956 (68 years)",
+                "Nacionalidad": "Austrian",
+                "Etnia": "European",
+                "Idiomas": "English French German Hungarian",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on September 17, 2015, last modified on June 3, 2022",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "PANEK, DANIEL TOMASZ",
+                "Alias": "",
+                "Pais": "by Slovenia",
+                "Crimen": "Rape",
+                "Sexo": "Male",
+                "Altura": "176 - 180 cm",
+                "Color_ojos": "Blue",
+                "Identificadores": "",
+                "Fecha_nac": "August 14, 1976 (48 years)",
+                "Nacionalidad": "Polish",
+                "Etnia": "European",
+                "Idiomas": "Czech English Italian Polish",
+                "Estado_caso": "Failed to attend court",
+                "Fecha_publicacion": "on August 20, 2024, last modified on August 20, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "QATRA, Amin",
+                "Alias": "",
+                "Pais": "by Denmark",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "178 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "November 24, 1989 (35 years)",
+                "Nacionalidad": "Afghan",
+                "Etnia": "",
+                "Idiomas": "",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on July 11, 2016, last modified on April 23, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "ZVICER, Radoje",
+                "Alias": "BABIC Josip geb. 06.02.1979 in Deutschland; GOJKOVIC Dragan geb. 08.09.1977 in Berane/Montenegro; GREPO David geb. 02.03.1983; KAROLY Ferenc geb. 31.03.1975; und weitere",
+                "Pais": "by Austria",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "Sexo": "Male",
+                "Altura": "unbekannt",
+                "Color_ojos": "Blue",
+                "Identificadores": "",
+                "Fecha_nac": "December 20, 1982 (42 years)",
+                "Nacionalidad": "Montenegrin",
+                "Etnia": "European",
+                "Idiomas": "",
+                "Estado_caso": "",
+                "Fecha_publicacion": "on November 13, 2024, last modified on November 13, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "DRMIĆ, Tomislav",
+                "Alias": "",
+                "Pais": "by Croatia",
+                "Crimen": "Participation in a criminal organisation",
+                "Sexo": "Male",
+                "Altura": "176-180 cm",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "September 23, 1993 (31 years)",
+                "Nacionalidad": "Bosnian/Herzegovinian Croatian",
+                "Etnia": "",
+                "Idiomas": "Croatian",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 15, 2023, last modified on December 3, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "MONTASSAR , Ben Mahfoudh",
+                "Alias": "",
+                "Pais": "by Luxembourg",
+                "Crimen": "Attempted Murder",
+                "Sexo": "Male",
+                "Altura": "171-180 cm",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "December 3, 1996 (28 years)",
+                "Nacionalidad": "Tunisian",
+                "Etnia": "North-African",
+                "Idiomas": "Arabic English French",
+                "Estado_caso": "Sentenced to 10 years of prison",
+                "Fecha_publicacion": "on December 6, 2024, last modified on December 9, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "YONG GRANADINO, Cristian Hernan",
+                "Alias": "Chuki",
+                "Pais": "by Spain",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "July 11, 1980 (44 years)",
+                "Nacionalidad": "Peruvian",
+                "Etnia": "Latin-American",
+                "Idiomas": "Spanish",
+                "Estado_caso": "Failed to attend court",
+                "Fecha_publicacion": "on December 2, 2024, last modified on December 2, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "SHIPLEY, Jesse Robert",
+                "Alias": "",
+                "Pais": "by Finland",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "Sexo": "Male",
+                "Altura": "185",
+                "Color_ojos": "Blue",
+                "Identificadores": "",
+                "Fecha_nac": "June 30, 1997 (27 years)",
+                "Nacionalidad": "Finnish",
+                "Etnia": "",
+                "Idiomas": "English Finnish",
+                "Estado_caso": "Sentenced to 12 years 2 months years of prison",
+                "Fecha_publicacion": "on June 4, 2024, last modified on June 4, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "LAVRIČ, JANKO",
+                "Alias": "",
+                "Pais": "by Slovenia",
+                "Crimen": "Fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of European Communities' financial interests",
+                "Sexo": "Male",
+                "Altura": "+185 cm",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "April 4, 1963 (61 years)",
+                "Nacionalidad": "Slovene",
+                "Etnia": "European",
+                "Idiomas": "English German Russian Serbo-Croatian Slovenian",
+                "Estado_caso": "Failed to attend court",
+                "Fecha_publicacion": "on November 24, 2023, last modified on August 5, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "OKOLIČANY, Róbert",
+                "Alias": "",
+                "Pais": "by Slovakia",
+                "Crimen": "Participation in a criminal organisation",
+                "Sexo": "Male",
+                "Altura": "178 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "Face - Scar(s)",
+                "Fecha_nac": "September 17, 1975 (49 years)",
+                "Nacionalidad": "Slovak",
+                "Etnia": "",
+                "Idiomas": "Hungarian",
+                "Estado_caso": "Convicted to life imprisonment",
+                "Fecha_publicacion": "on November 14, 2023, last modified on November 14, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "KHODOR, Abdullah",
+                "Alias": "",
+                "Pais": "by Luxembourg",
+                "Crimen": "Kidnapping, illegal restraint and hostage-taking Laundering of the proceeds of crime Organised or armed robbery Participation in a criminal organisation",
+                "Sexo": "Male",
+                "Altura": "181 cm",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "December 30, 1998 (26 years)",
+                "Nacionalidad": "German Libyan",
+                "Etnia": "European",
+                "Idiomas": "",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on March 9, 2022, last modified on February 3, 2025",
+                "Imagen": ""
             }
         },
         {
@@ -890,7 +548,349 @@
                 "Idiomas": "German Greek Russian Turkish",
                 "Estado_caso": "Ongoing investigation",
                 "Fecha_publicacion": "on February 12, 2025, last modified on February 12, 2025",
-                "Imagen": "b"
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "PETKOVSKI , ANTON ZHIVKOV",
+                "Alias": "Nashko",
+                "Pais": "by Bulgaria",
+                "Crimen": "Attempted Murder",
+                "Sexo": "Male",
+                "Altura": "Tall cm",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "October 11, 1966 (58 years)",
+                "Nacionalidad": "Bulgarian",
+                "Etnia": "European",
+                "Idiomas": "Bulgarian",
+                "Estado_caso": "Convicted to life imprisonment",
+                "Fecha_publicacion": "on August 19, 2019, last modified on January 30, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "KOVÁČ, Vilém",
+                "Alias": "",
+                "Pais": "by Czech Republic",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances Participation in a criminal organisation",
+                "Sexo": "Male",
+                "Altura": "175 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "October 10, 1974 (50 years)",
+                "Nacionalidad": "Czech",
+                "Etnia": "European",
+                "Idiomas": "Czech",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 10, 2023, last modified on November 10, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "SHEHAB AHMED, Ali",
+                "Alias": "",
+                "Pais": "by Sweden",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "172 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "March 4, 2004 (20 years)",
+                "Nacionalidad": "Swedish",
+                "Etnia": "",
+                "Idiomas": "Arabic",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 29, 2024, last modified on November 29, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "VESKUS, MIHKEL",
+                "Alias": "",
+                "Pais": "by Estonia",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "Sexo": "Male",
+                "Altura": "180 cm",
+                "Color_ojos": "Grey",
+                "Identificadores": "",
+                "Fecha_nac": "September 4, 1984 (40 years)",
+                "Nacionalidad": "Estonian",
+                "Etnia": "",
+                "Idiomas": "Estonian",
+                "Estado_caso": "Failed to attend court",
+                "Fecha_publicacion": "on May 23, 2023, last modified on May 25, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "ŻYŁA, KAMIL",
+                "Alias": "",
+                "Pais": "by Poland",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "176-180 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "Body - Tattoo(s) Initial",
+                "Fecha_nac": "August 2, 1987 (37 years)",
+                "Nacionalidad": "Polish",
+                "Etnia": "European",
+                "Idiomas": "Polish",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on September 7, 2023, last modified on December 3, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "DJABRI, ABDENOUR",
+                "Alias": "",
+                "Pais": "by Poland",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "185 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "September 22, 1981 (43 years)",
+                "Nacionalidad": "Algerian",
+                "Etnia": "African",
+                "Idiomas": "Arabic English French",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on December 2, 2024, last modified on December 3, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "COTOS, ADRIAN",
+                "Alias": "",
+                "Pais": "by Romania",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances",
+                "Sexo": "Male",
+                "Altura": "180 cm",
+                "Color_ojos": "Green",
+                "Identificadores": "",
+                "Fecha_nac": "September 2, 1983 (41 years)",
+                "Nacionalidad": "Romanian",
+                "Etnia": "European",
+                "Idiomas": "Romanian",
+                "Estado_caso": "Sentenced to 10,5 years of prison",
+                "Fecha_publicacion": "on November 16, 2023, last modified on November 16, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "BALOGH, Engelbert",
+                "Alias": "",
+                "Pais": "by Hungary",
+                "Crimen": "Attempted Murder",
+                "Sexo": "Male",
+                "Altura": "172 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "Arm(s) - Tattoo(s) Picture Hand(s) - Tattoo(s) Mark",
+                "Fecha_nac": "December 3, 1993 (31 years)",
+                "Nacionalidad": "Hungarian",
+                "Etnia": "European",
+                "Idiomas": "German Hungarian",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 22, 2024, last modified on November 22, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "KANYS, Renaldas",
+                "Alias": "",
+                "Pais": "by Lithuania",
+                "Crimen": "Illicit trafficking in narcotic drugs and psychotropic substances Murder, grievous bodily injury Participation in a criminal organisation",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "September 26, 1973 (51 years)",
+                "Nacionalidad": "Lithuanian",
+                "Etnia": "European",
+                "Idiomas": "",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on September 7, 2020, last modified on October 13, 2021",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "NAURBAYEV, Saidkhuseyn",
+                "Alias": "",
+                "Pais": "by Czech Republic",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "176 cm",
+                "Color_ojos": "Black",
+                "Identificadores": "",
+                "Fecha_nac": "April 23, 1985 (39 years)",
+                "Nacionalidad": "Russian",
+                "Etnia": "European",
+                "Idiomas": "Russian",
+                "Estado_caso": "Sentenced to 17,5 years of prison",
+                "Fecha_publicacion": "on November 29, 2024, last modified on November 29, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "OUALI, KARIM",
+                "Alias": "OUALI ADERFI",
+                "Pais": "by France",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "179 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "Body - Tattoo(s) Picture Leg(s) - Tattoo(s) Abstract Design",
+                "Fecha_nac": "May 21, 1976 (48 years)",
+                "Nacionalidad": "French",
+                "Etnia": "North-African",
+                "Idiomas": "Arabic English French Spanish",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 22, 2016, last modified on December 23, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "NÕMME, Margus",
+                "Alias": "",
+                "Pais": "by Estonia",
+                "Crimen": "Sexual exploitation of children and child pornography",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "January 6, 1996 (29 years)",
+                "Nacionalidad": "Estonian",
+                "Etnia": "European",
+                "Idiomas": "Estonian",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 10, 2023, last modified on November 10, 2023",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "HAMID, NOUR EDDINE G IBRAHIM",
+                "Alias": "",
+                "Pais": "by Malta",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "Arm(s) - Tattoo(s) Picture Body - Tattoo(s) Picture",
+                "Fecha_nac": "August 7, 1980 (44 years)",
+                "Nacionalidad": "Libyan",
+                "Etnia": "",
+                "Idiomas": "Arabic English",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on January 18, 2017, last modified on October 30, 2022",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "OMAIRAT, Walid",
+                "Alias": "",
+                "Pais": "by Germany",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "158 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "January 1, 1978 (47 years)",
+                "Nacionalidad": "Lebanese",
+                "Etnia": "",
+                "Idiomas": "German Lebanese",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on January 22, 2025, last modified on January 22, 2025",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "VACLAVEK, Vladimir",
+                "Alias": "",
+                "Pais": "by Croatia",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "176-180 cm",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "January 13, 1981 (44 years)",
+                "Nacionalidad": "Croatian",
+                "Etnia": "",
+                "Idiomas": "Croatian",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on December 3, 2024, last modified on December 3, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "JANKEVICS, Māris",
+                "Alias": "",
+                "Pais": "by Latvia",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "",
+                "Identificadores": "",
+                "Fecha_nac": "January 24, 1979 (46 years)",
+                "Nacionalidad": "Latvian",
+                "Etnia": "European",
+                "Idiomas": "",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on February 16, 2024, last modified on February 16, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "GÁL, János",
+                "Alias": "",
+                "Pais": "by Hungary",
+                "Crimen": "Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "175 cm",
+                "Color_ojos": "Brown",
+                "Identificadores": "Arm(s) - Tattoo(s) Abstract Design",
+                "Fecha_nac": "March 25, 1982 (42 years)",
+                "Nacionalidad": "Hungarian",
+                "Etnia": "European",
+                "Idiomas": "Hungarian",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 25, 2024, last modified on November 25, 2024",
+                "Imagen": ""
+            }
+        },
+        {
+            "persona": {
+                "Nombre": "AHMET, Sali",
+                "Alias": "Sali AHMED, Sali MUSA",
+                "Pais": "by Cyprus",
+                "Crimen": "Attempted Murder Murder, grievous bodily injury",
+                "Sexo": "Male",
+                "Altura": "",
+                "Color_ojos": "Brown",
+                "Identificadores": "",
+                "Fecha_nac": "June 12, 1973 (51 years)",
+                "Nacionalidad": "Bulgarian",
+                "Etnia": "European",
+                "Idiomas": "Bulgarian English Turkish",
+                "Estado_caso": "Ongoing investigation",
+                "Fecha_publicacion": "on November 25, 2021, last modified on November 25, 2021",
+                "Imagen": ""
             }
         }
     ]
