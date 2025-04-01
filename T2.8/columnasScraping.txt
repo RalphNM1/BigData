@@ -1,0 +1,19 @@
+Id_Pub_Ted 
+Organo_Contratacion VARCHAR(100)
+Id_Organo_Contratacion FLOAT
+Estado_Licitacion VARCHAR(100)
+Objeto_Contrato VARCHAR(500)
+Financiación_UE BOOLEAN ?
+Presupuesto_Base_Lic_Sin_Impuestos FLOAT
+Valor_Est_Contrato FLOAT
+Tipo_Contrato VARCHAR(100)
+Codigo_CPV VARCHAR(255)
+Lugar_Ejecucion VARCHAR(100)
+Sistema_Contratacion VARCHAR(100)
+Procedimiento_Contratacion VARCHAR(100)
+Tipo_tramitacion VARCHAR(100)
+Metodo_Pres_Oferta VARCHAR(100)
+Resultado VARCHAR(100)
+Adjudicatario VARCHAR(100)
+N_Licitadores_Presentado INT
+Importe_Adjudicacion FLOAT
