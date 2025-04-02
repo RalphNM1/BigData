@@ -1,0 +1,432 @@
+sudo apt install wget mariadb-server nano net-tools
+
+ARCHIVO = "/etc/mysql/mariadb.conf.d/50-server.cnf"
+
+sudo nano $ARCHIVO
+(poñer onde corresponda: bind-address = 0.0.0.0)
+
+sudo service mariadb restart
+
+netstat -atun
+
+wget 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ sudo apt install net-tools
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  net-tools
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 243 kB of archives.
+After this operation, 1,001 kB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian bookworm/main amd64 net-tools amd64 2.10-0.1 [243 kB]
+Fetched 243 kB in 0s (754 kB/s)
+Selecting previously unselected package net-tools.
+(Reading database ... 19535 files and directories currently installed.)
+Preparing to unpack .../net-tools_2.10-0.1_amd64.deb ...
+Unpacking net-tools (2.10-0.1) ...
+Setting up net-tools (2.10-0.1) ...
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ netstat -tuna
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 10.255.255.254:53       0.0.0.0:*               LISTEN
+tcp        0      0 0.0.0.0:3306            0.0.0.0:*               LISTEN
+tcp        0      0 0.0.0.0:9906            0.0.0.0:*               LISTEN
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN
+tcp        0      0 172.21.50.98:49774      151.101.134.132:80      TIME_WAIT
+tcp6       0      0 :::9906                 :::*                    LISTEN
+tcp6       0      0 :::22                   :::*                    LISTEN
+udp        0      0 10.255.255.254:53       0.0.0.0:*
+udp        0      0 127.0.0.1:323           0.0.0.0:*
+udp6       0      0 ::1:323                 :::*
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ mariadb
+ERROR 1698 (28000): Access denied for user 'ralphy'@'localhost'
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ sudo mariadb
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 32
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> create database base-de-datos
+    -> Ctrl-C -- exit!
+Aborted
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ sudo mariadb
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 33
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> create database base-de-datos;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-de-datos' at line 1
+MariaDB [(none)]> create database basededatos;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> CREATE USER 'ralphy'@'%' IDENTIFIED BY 'contrasena';
+Query OK, 0 rows affected (0.005 sec)
+
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON basededatos.* TO 'ralphy'@'%';
+Query OK, 0 rows affected (0.005 sec)
+
+MariaDB [(none)]> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.001 sec)
+
+MariaDB [(none)]> SELECT User FROM mysql.user;
++-------------+
+| User        |
++-------------+
+| ralphy      |
+| mariadb.sys |
+| mysql       |
+| root        |
++-------------+
+4 rows in set (0.002 sec)
+
+MariaDB [(none)]> show grants;
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| Grants for root@localhost
+                  |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| GRANT ALL PRIVILEGES ON *.* TO `root`@`localhost` IDENTIFIED VIA mysql_native_password USING 'invalid' OR unix_socket WITH GRANT OPTION |
+| GRANT PROXY ON ''@'%' TO 'root'@'localhost' WITH GRANT OPTION
+                  |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+MariaDB [(none)]> CREATE USER 'ralphynm'@'%' IDENTIFIED BY 'contrasena';
+Query OK, 0 rows affected (0.004 sec)
+MariaDB [(none)]>
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON basededatos.* TO 'ralphynm'@'%';
+Query OK, 0 rows affected (0.004 sec)
+
+MariaDB [(none)]> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.001 sec)
+
+MariaDB [(none)]> show grants;
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| Grants for root@localhost                                                                                                               |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| GRANT ALL PRIVILEGES ON *.* TO `root`@`localhost` IDENTIFIED VIA mysql_native_password USING 'invalid' OR unix_socket WITH GRANT OPTION |
+| GRANT PROXY ON ''@'%' TO 'root'@'localhost' WITH GRANT OPTION                                                                           |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+2 rows in set (0.000 sec)
+
+MariaDB [(none)]> SELECT User FROM mysql.user;
++-------------+
+| User        |
++-------------+
+| ralphy      |
+| ralphynm    |
+| mariadb.sys |
+| mysql       |
+| root        |
++-------------+
+5 rows in set (0.001 sec)
+
+MariaDB [(none)]> Ctrl-C -- exit!
+Aborted
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ sudo mariadb
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 34
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]>
+MariaDB [(none)]> use basededatos
+Database changed
+MariaDB [basededatos]> show grants;
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| Grants for root@localhost                                                                                                               |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| GRANT ALL PRIVILEGES ON *.* TO `root`@`localhost` IDENTIFIED VIA mysql_native_password USING 'invalid' OR unix_socket WITH GRANT OPTION |
+| GRANT PROXY ON ''@'%' TO 'root'@'localhost' WITH GRANT OPTION                                                                           |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+2 rows in set (0.000 sec)
+
+MariaDB [basededatos]> Ctrl-C -- exit!
+Aborted
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ wget https://downloads.mysql.com/docs/world-db.tar.gz
+--2025-01-10 16:53:22--  https://downloads.mysql.com/docs/world-db.tar.gz
+Resolving downloads.mysql.com (downloads.mysql.com)... 23.37.163.103, 2a02:26f0:2380:29c::2e31, 2a02:26f0:2380:281::2e31
+Connecting to downloads.mysql.com (downloads.mysql.com)|23.37.163.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92927 (91K) [application/x-gzip]
+Saving to: ‘world-db.tar.gz’
+
+world-db.tar.gz                       100%[========================================================================>]  90.75K  --.-KB/s    in 0.04s
+
+2025-01-10 16:53:22 (2.40 MB/s) - ‘world-db.tar.gz’ saved [92927/92927]
+
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ tar -xzf world-db.tar.gz
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ ls
+ AppData                IntelGraphicsProfiles                                                                          OneDrive
+'Configuración local'   Links                                                                                          Pictures
+ Contacts              'Menú Inicio'                                                                                   Plantillas
+ Cookies               'Mis documentos'                                                                                Reciente
+'Datos de programa'     Music                                                                                         'Saved Games'
+ Desktop                NTUSER.DAT                                                                                     Searches
+ Documents              NTUSER.DAT{f7269a7e-ad90-11ef-898c-c7ff774dff56}.TM.blf                                        SendTo
+ Downloads              NTUSER.DAT{f7269a7e-ad90-11ef-898c-c7ff774dff56}.TMContainer00000000000000000001.regtrans-ms  'Transformaci�n 1.ktr'
+'Entorno de red'        NTUSER.DAT{f7269a7e-ad90-11ef-898c-c7ff774dff56}.TMContainer00000000000000000002.regtrans-ms   Videos
+ Favorites              ntuser.dat.LOG1                                                                                world-db
+ get-docker.sh          ntuser.dat.LOG2                                                                                world-db.tar.gz
+ Impresoras             ntuser.ini
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ cd world-db /home/ralphy
+-bash: cd: too many arguments
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ mv world-db /home/ralphy
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$
+(base) ralphy@A23P164C:/mnt/c/Users/ralphy.nunezmercado$ cd /home/ralphy/
+(base) ralphy@A23P164C:~$ ls
+employees_db                     Explicacions-Calculo-Emisions.ipynb  miniconda3                         SBD
+employees_db-full-1.0.6.tar.bz2  get-docker.sh                        Miniconda3-latest-Linux-x86_64.sh  world-db
+(base) ralphy@A23P164C:~$ ls world-db/
+world.sql
+(base) ralphy@A23P164C:~$
+(base) ralphy@A23P164C:~$ sudo mysql -hlocalhost -uroot
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 35
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> SELECT User FROM mysql.user;
++-------------+
+| User        |
++-------------+
+| ralphy      |
+| ralphynm    |
+| mariadb.sys |
+| mysql       |
+| root        |
++-------------+
+5 rows in set (0.001 sec)
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| basededatos        |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.000 sec)
+
+MariaDB [(none)]> show grants;
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| Grants for root@localhost                                                                                                               |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| GRANT ALL PRIVILEGES ON *.* TO `root`@`localhost` IDENTIFIED VIA mysql_native_password USING 'invalid' OR unix_socket WITH GRANT OPTION |
+| GRANT PROXY ON ''@'%' TO 'root'@'localhost' WITH GRANT OPTION                                                                           |
++-----------------------------------------------------------------------------------------------------------------------------------------+
+2 rows in set (0.001 sec)
+
+MariaDB [(none)]> SHOW GRANTS FOR 'ralphy'@'%';
++-------------------------------------------------------------------------------------------------------+
+| Grants for ralphy@%                                                                                   |
++-------------------------------------------------------------------------------------------------------+
+| GRANT USAGE ON *.* TO `ralphy`@`%` IDENTIFIED BY PASSWORD '*87E7F86EC2CB57E8A23789E00616EEF1F13CE869' |
+| GRANT ALL PRIVILEGES ON `basededatos`.* TO `ralphy`@`%`                                               |
++-------------------------------------------------------------------------------------------------------+
+2 rows in set (0.000 sec)
+
+MariaDB [(none)]> drop user ralphynm;
+Query OK, 0 rows affected (0.003 sec)
+
+MariaDB [(none)]> SELECT User FROM mysql.user;
++-------------+
+| User        |
++-------------+
+| ralphy      |
+| mariadb.sys |
+| mysql       |
+| root        |
++-------------+
+4 rows in set (0.001 sec)
+
+MariaDB [(none)]> SHOW GRANTS FOR 'ralphy'@'%';
++-------------------------------------------------------------------------------------------------------+
+| Grants for ralphy@%                                                                                   |
++-------------------------------------------------------------------------------------------------------+
+| GRANT USAGE ON *.* TO `ralphy`@`%` IDENTIFIED BY PASSWORD '*87E7F86EC2CB57E8A23789E00616EEF1F13CE869' |
+| GRANT ALL PRIVILEGES ON `basededatos`.* TO `ralphy`@`%`                                               |
++-------------------------------------------------------------------------------------------------------+
+2 rows in set (0.000 sec)
+
+MariaDB [(none)]> Ctrl-C -- exit!
+Aborted
+(base) ralphy@A23P164C:~$ ls
+employees_db                     Explicacions-Calculo-Emisions.ipynb  miniconda3                         SBD
+employees_db-full-1.0.6.tar.bz2  get-docker.sh                        Miniconda3-latest-Linux-x86_64.sh  world-db
+(base) ralphy@A23P164C:~$ mysql -hlocalhost -uralphy -pcontrasena< world-db/world.sql
+ERROR 1044 (42000) at line 23: Access denied for user 'ralphy'@'%' to database 'world'
+(base) ralphy@A23P164C:~$ sudo mysql -hlocalhost -uroot
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 37
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON world.* TO 'ralphy'@'%';
+Query OK, 0 rows affected (0.003 sec)
+
+MariaDB [(none)]> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.001 sec)
+
+MariaDB [(none)]> exit
+Bye
+(base) ralphy@A23P164C:~$ mysql -hlocalhost -uralphy -pcontrasena< world-db/world.sql
+(base) ralphy@A23P164C:~$ sudo mysql -hlocalhost -uroot
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 39
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| basededatos        |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
+| world              |
++--------------------+
+6 rows in set (0.000 sec)
+
+MariaDB [(none)]> use world
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+MariaDB [world]> show tables;
++-----------------+
+| Tables_in_world |
++-----------------+
+| city            |
+| country         |
+| countrylanguage |
++-----------------+
+3 rows in set (0.000 sec)
+
+MariaDB [world]> use basededatos
+Database changed
+MariaDB [basededatos]> show tables
+    -> Ctrl-C -- exit!
+Aborted
+(base) ralphy@A23P164C:~$ sudo mysql -hlocalhost -uroot
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 40
+Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> use basededatos;
+Database changed
+MariaDB [basededatos]> show tables;
+Empty set (0.000 sec)
+
+MariaDB [basededatos]> use world
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+MariaDB [world]> show tables;
++-----------------+
+| Tables_in_world |
++-----------------+
+| city            |
+| country         |
+| countrylanguage |
++-----------------+
+3 rows in set (0.000 sec)
+
+MariaDB [world]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| basededatos        |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
+| world              |
++--------------------+
+6 rows in set (0.000 sec)
+
+MariaDB [world]>
+
+
+
+
+
+
+
+
+HADOOP
+ hdfs dfs -ls
+ 
+ mariadb password docker = q6/k2aD3F1h<1Q?NuB[b,7O3=;g(e5wT
