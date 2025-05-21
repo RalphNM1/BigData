@@ -1,0 +1,401 @@
+Marca,Modelo,Precio,KM,Año,Tipo_de_combustible,CV,Ubicacion,Transmision,Codigo_postal,Comunidad_autonoma
+Peugeot,308,14400,21071,2023,Gasolina,131.0,MERIDA,Manual,06800,Extremadura
+Ford,mustang,23990,36000,2014,Gasolina,,PALAFRUGELL,Automático,17200,Cataluña
+Nissan,qashqai,7450,24600,2011,Diésel,150.0,TORREVIEJA,Automático,03181,Comunidad Valenciana
+Volvo,xc70,2950,317333,2004,Diésel,163.0,ARGENTONA,Manual,08310,Cataluña
+Citroen,c4 x,13590,35712,2023,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Mini,cooper cabrio,5999,160000,2006,Gasolina,170.0,HUERVA,Manual,50410,Aragón
+Peugeot,208,6990,54091,2017,Gasolina,82.0,Erandio,Manual,48950,País Vasco
+Audi,a3,3900,240000,2003,Gasolina,150.0,Sabadell,Manual,08205,Cataluña
+Opel,corsa,9990,46000,2023,Gasolina,101.0,ALGINET,Manual,46230,Comunidad Valenciana
+Ds automobiles,ds 4,7990,148300,2016,Diésel,120.0,MOSTOLES,Manual,28938,Madrid
+Cupra,formentor,23690,6554,2024,Gasolina,150.0,PARLA,Manual,28980,Madrid
+Bmw,745,51900,46700,2020,Electro/Gasolina,394.0,ARROYOMOLINOS,Automático,28939,Madrid
+Volkswagen,polo,5600,150000,2010,Diésel,75.0,ALMENDRALEJO,Manual,06200,Extremadura
+Hyundai,xg 30,2500,200000,2001,Gasolina,192.0,Parla,Automático,28983,Madrid
+Mercedes-benz,cla 200,20390,96051,2018,Diésel,136.0,ZARAGOZA,Manual,50011,Aragón
+Ford,focus,15000,10000,2020,Gasolina,250.0,PALENCIA,Manual,34004,Castilla y León
+Opel,combo,9500,107000,2019,Diésel,102.0,POZOBLANCO,Manual,14400,Andalucía
+Chrysler,300 m,2250,163851,1999,Gasolina,203.0,GALDAKANO,Automático,48960,País Vasco
+Audi,a5,9999,215000,2012,Diésel,143.0,LLERONA,Manual,08520,Cataluña
+Mercedes-benz,g 500,36900,204000,2001,Gasolina,306.0,LLOBREGAT,Automático,08023,Cataluña
+Volvo,xc60,29900,105500,2020,Electro/Gasolina,392.0,ARROYOMOLINOS,Automático,28939,Madrid
+Mercedes-benz,e 350,9990,259000,2010,Diésel,231.0,TARRAGONA,Automático,43850,Cataluña
+Opel,insignia,4980,212000,2010,Diésel,131.0,HUMANES,Manual,28970,Madrid
+Skoda,fabia,4990,89000,2012,Gasolina,60.0,LLOBREGAT,Manual,08820,Cataluña
+Skoda,fabia,16990,8500,2024,Gasolina,116.0,VALLES,Manual,08450,Cataluña
+Hyundai,i40,7751,177720,2014,Diésel,116.0,ROZAS,Manual,28232,Madrid
+Peugeot,2008,8500,99200,2016,Gasolina,110.0,TERRASSA,Manual,08226,Cataluña
+Bmw,x2,15490,159965,2019,Diésel,116.0,MOSTOLES,Manual,28938,Madrid
+Nissan,qashqai,5950,191000,2009,Diésel,106.0,TORREVIEJA,Manual,03181,Comunidad Valenciana
+Volkswagen,passat,7900,295175,2014,Diésel,140.0,BENICARLO,Manual,12580,Comunidad Valenciana
+Mazda,cx-3,8990,186000,2016,Diésel,105.0,REY,Manual,45280,Castilla-La Mancha
+Mercedes-benz,unknown,4200,270000,2005,Diésel,150.0,ALMENDRALEJO,Automático,06200,Extremadura
+Ford,c-max,6700,68000,2013,Gasolina,125.0,GELTRÚ,Manual,08800,Cataluña
+Citroen,xsara,1490,138000,1999,Gasolina,90.0,Ávila,Manual,05004,Andalucía
+Bmw,318,7990,185000,2009,Gasolina,143.0,MADRID,Manual,28013,Madrid
+Bmw,x3,12998,117840,2015,Diésel,190.0,Benalmadena,Automático,29630,Andalucía
+Bmw,118,4990,234854,2007,Diésel,143.0,VILABLAREIX,Manual,17180,Cataluña
+Audi,a7,12999,254000,2014,Diésel,204.0,PLASENCIA,Automático,10600,Extremadura
+Opel,corsa,9490,65278,2021,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Land rover,discovery sport,13450,140000,2016,Diésel,179.0,MADRID.,Automático,28970,Madrid
+Opel,corsa,9490,65278,2021,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Land rover,discovery sport,13450,140000,2016,Diésel,179.0,MADRID.,Automático,28970,Madrid
+Mazda,rx-8,9990,90100,2006,Gasolina,231.0,MADRID,Manual,28970,Madrid
+Porsche,cayenne,20999,327000,2015,Diésel,262.0,LLERONA,Automático,08520,Cataluña
+Jeep,avenger,17950,46937,2023,Gasolina,101.0,MANISES,Manual,46940,Comunidad Valenciana
+Ford,kuga,11490,145144,2016,Diésel,150.0,LEGANES,Manual,28919,Madrid
+Bmw,320,36900,21300,2024,Gasolina,184.0,ARROYOMOLINOS,Automático,28939,Madrid
+Mini,one,12200,64000,2019,Gasolina,102.0,REYES,Manual,28703,Madrid
+Honda,hr-v,17000,55881,2021,Gasolina,131.0,MANISES,Manual,46940,Comunidad Valenciana
+Volkswagen,golf,9490,58932,2015,Eléctrico,116.0,REY,Automático,45280,Castilla-La Mancha
+Bmw,118,18803,72935,2020,Diésel,150.0,MADRID,Manual,28019,Madrid
+Bmw,i8,55990,135500,2015,Electro/Gasolina,362.0,MOSTOLES,Automático,28938,Madrid
+Bmw,530,22990,143850,2019,Electro/Gasolina,250.0,FE,Automático,18320,Andalucía
+Land rover,range rover evoque,21990,79000,2020,Diésel,150.0,Sestao,Manual,48910,País Vasco
+Mercedes-benz,gle 350,47900,135767,2021,Electro/Diésel,320.0,VELEZ,Automático,29740,Andalucía
+Cupra,formentor,17000,85000,2021,Gasolina,150.0,MADRID,Manual,28007,Madrid
+Audi,a4,19900,172600,2020,Diésel,163.0,ARROYOMOLINOS,Automático,28939,Madrid
+Toyota,unknown,12100,54080,2023,Gasolina,72.0,Alicante,Manual,03320,Comunidad Valenciana
+Bmw,520,24900,112000,2020,Diésel,190.0,(BARCELONA),Automático,08960,Cataluña
+Lexus,ls 600,25900,151035,2012,Electro/Gasolina,445.0,MADRID,Automático,28034,Madrid
+Volkswagen,tiguan,21190,98273,2020,Diésel,150.0,Massanassa,Automático,46470,Comunidad Valenciana
+Seat,arona,13000,48000,2020,Gasolina,150.0,ASPE,Manual,03680,Comunidad Valenciana
+Mitsubishi,outlander,7999,250000,2013,Diésel,150.0,BEGIJAR,Automático,23520,Andalucía
+Volkswagen,passat,6500,240000,2012,Diésel,140.0,VEGA,Manual,28330,Madrid
+Mazda,cx-7,7900,198000,2010,Diésel,173.0,ALICANTE,Manual,03550,Comunidad Valenciana
+Volkswagen,passat,16496,109432,2020,Diésel,150.0,Leganés,Manual,28914,Madrid
+Alfa romeo,4c,64900,26900,2016,Gasolina,241.0,MARBELLA,Automático,29660,Andalucía
+Renault,megane,6000,148000,2012,Gasolina,116.0,CORDOBA,Manual,14014,Andalucía
+Kia,sportage,12400,188600,2018,Diésel,116.0,GANDIA,Manual,46700,Comunidad Valenciana
+Opel,corsa,13490,6340,2024,Gasolina,101.0,HARO,Manual,26200,La Rioja
+Land rover,range rover evoque,15990,123647,2011,Diésel,190.0,LEGANES,Automático,28919,Madrid
+Mercedes-benz,a 180,32990,8126,2024,Diésel,116.0,MADRID,Automático,28022,Madrid
+Fiat,panda,9400,47000,2015,Diésel,75.0,BARCELONA,Manual,08028,Cataluña
+Volkswagen,golf,10499,134833,2013,Diésel,110.0,SEVILLA,Manual,41001,Andalucía
+Mini,one,5950,162500,2007,Gasolina,,CORUÑA,Manual,15008,Galicia
+Dacia,sandero,14900,12700,2024,Gasolina,91.0,Pinto,Manual,28320,Madrid
+Skoda,superb,3800,450000,2012,Diésel,105.0,ASTORGA,Manual,24700,Castilla y León
+Citroen,c3,7800,107000,2017,Gasolina,82.0,Manises,Manual,46940,Comunidad Valenciana
+Mazda,cx-5,23846,36459,2022,Gasolina,165.0,LEGANES,Automático,28914,Madrid
+Opel,corsa,14150,1,2025,Gasolina,101.0,MERIDA,Manual,06800,Extremadura
+Bmw,320,6999,191000,2005,Gasolina,170.0,CRUZ,Automático,30400,Región de Murcia
+Porsche,panamera,28000,155000,2014,Gasolina,420.0,MADRID,Automático,28031,Madrid
+Bmw,x3,11990,171213,2011,Diésel,184.0,VILABLAREIX,Automático,17180,Cataluña
+Peugeot,rifter,10990,178000,2019,Diésel,99.0,MAR,Manual,08349,Cataluña
+Renault,kadjar,8990,186270,2015,Diésel,110.0,VILABLAREIX,Manual,17180,Cataluña
+Citroen,c4 cactus,8490,86711,2018,Gasolina,110.0,MADRID,Automático,28970,Madrid
+Volvo,s60,31600,67000,2021,Electro/Gasolina,405.0,REYES,Automático,28703,Madrid
+Citroen,c5 aircross,11900,45000,2020,Gasolina,131.0,Ourense,Manual,32915,Galicia
+Mg,tf,6900,110000,2003,Gasolina,135.0,BERRIOZAR,Manual,31013,Navarra
+Bmw,x5,7800,114000,2003,Diésel,218.0,Palafolls,Automático,08389,Cataluña
+Citroen,c5,5700,211000,2012,Diésel,140.0,BERRIOPLANO/BERRIOBEITI,Manual,31195,Navarra
+Audi,a5,16900,148085,2016,Gasolina,177.0,TERRASSA,Manual,08226,Cataluña
+Toyota,rav 4,13800,203600,2014,Diésel,124.0,BADAJOZ,Manual,06420,Extremadura
+Kia,sportage,18990,59899,2022,Gasolina,152.0,MADRID,Manual,28002,Madrid
+Bmw,x3,16390,175000,2016,Diésel,150.0,HENARES,Manual,28802,Madrid
+Audi,a4,7499,213977,2009,Gasolina,160.0,AGOST,Manual,03698,Comunidad Valenciana
+Ford,kuga,11790,111015,2018,Diésel,140.0,ÁVILA,Manual,05004,Andalucía
+Bmw,x2,16790,129900,2021,Gasolina,140.0,REYES,Automático,28703,Madrid
+Audi,a6,15700,254968,2018,Diésel,150.0,MALAGA,Automático,29004,Andalucía
+Citroen,c4,5900,139000,2007,Diésel,109.0,Parla,Manual,28983,Madrid
+Bmw,x1,20150,97711,2022,Diésel,116.0,ZARAGOZA,Manual,50011,Aragón
+Peugeot,2008,12500,29000,2022,Diésel,110.0,"ARDOZ,",Manual,28850,Madrid
+Volkswagen,golf gti,12000,141000,2011,Gasolina,211.0,LUGO,Manual,27003,Galicia
+Land rover,freelander,7999,230000,2008,Diésel,160.0,BRACAMONTE,Automático,37300,Castilla y León
+Mercedes-benz,glc 43 amg,33988,112000,2017,Gasolina,367.0,GALDAKAO,Automático,48960,País Vasco
+Mercedes-benz,gla 220,16490,132000,2014,Diésel,170.0,PARLA,Automático,28982,Madrid
+Peugeot,408,19990,30832,2024,Gasolina,131.0,MADRID,Automático,28021,Madrid
+Hyundai,bayon,15090,30712,2024,Gasolina,84.0,MADRID,Manual,28914,Madrid
+Opel,corsa,9490,23982,2021,Gasolina,75.0,POBLET,Manual,46930,Comunidad Valenciana
+Bmw,x1,9990,173000,2010,Diésel,177.0,Barca,Manual,08740,Cataluña
+Skoda,kamiq,14445,113290,2021,Gasolina,110.0,MADRID,Automático,28649,Madrid
+Mg,zs,13627,17012,2023,Gasolina,106.0,JAEN,Manual,23009,Andalucía
+Renault,arkana,17863,83402,2022,Electro/Gasolina,143.0,MADRID,Automático,28019,Madrid
+Seat,ibiza,8990,66000,2012,Diésel,105.0,LLOBREGAT,Manual,08820,Cataluña
+Volkswagen,touran,10990,143000,2011,Diésel,105.0,LLOBREGAT,Manual,08950,Cataluña
+Audi,rs q3,58990,20956,2023,Gasolina,400.0,MADRID,Automático,28970,Madrid
+Land rover,range rover evoque,16490,169000,2015,Diésel,150.0,GRANOLLERS,Automático,08403,Cataluña
+Ford,focus,3000,294000,2006,Diésel,116.0,CORUÑA,Manual,15190,Galicia
+Peugeot,308,7490,164542,2019,Diésel,99.0,REY,Manual,45280,Castilla-La Mancha
+Cupra,leon,24400,18291,2024,Gasolina,150.0,PARLA,Automático,28980,Madrid
+Peugeot,5008,18490,53000,2020,Diésel,131.0,COGULLADA-CARCAIXENT,Automático,46740,Comunidad Valenciana
+Audi,q5,11900,230989,2009,Diésel,170.0,ZARAGOZA,Automático,50014,Aragón
+Audi,a6,379900,10,2025,Gasolina,630.0,CARDEDEU,Automático,08440,Cataluña
+Nissan,qashqai,7450,235000,2010,Diésel,150.0,TORREVIEJA,Automático,03181,Comunidad Valenciana
+Volkswagen,t-roc,22002,49734,2020,Diésel,150.0,ROZAS,Automático,28232,Madrid
+Toyota,c-hr,16990,142581,2021,Electro/Gasolina,125.0,VILABLAREIX,Automático,17180,Cataluña
+Jeep,avenger,16790,26194,2024,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Volkswagen,golf,6300,161000,2006,Diésel,140.0,ALICANTE,Manual,03005,Comunidad Valenciana
+Nissan,qashqai,15700,77500,2021,Diésel,150.0,ZUBIA,Manual,18140,Andalucía
+Nissan,juke,14540,31306,2021,Gasolina,114.0,MADRID,Manual,28914,Madrid
+Peugeot,2008,18490,20857,2024,Gasolina,131.0,Villalba,Automático,28400,Madrid
+Toyota,rav 4,20490,211000,2021,Electro/Gasolina,222.0,Sestao,Automático,48910,País Vasco
+Peugeot,3008,1,10,2025,Gasolina,145.0,Villalba,Automático,28400,Madrid
+Audi,a6,8990,240000,2011,Diésel,170.0,REYES,Manual,28703,Madrid
+Cupra,leon,24890,15000,2024,Gasolina,150.0,LLOBREGAT,Automático,08830,Cataluña
+Mercedes-benz,e 320,7299,318444,2006,Diésel,224.0,ALMENDRALEJO,Automático,06200,Extremadura
+Citroen,c4 cactus,7999,140000,2016,Diésel,99.0,ALMERIA,Manual,04008,Andalucía
+Renault,rafale,45500,11600,2024,Electro/Gasolina,300.0,Pinto,Automático,28320,Madrid
+Mazda,6,7990,187000,2012,Diésel,129.0,HENARES,Manual,28802,Madrid
+Audi,a3,9990,190000,2013,Diésel,150.0,Rei,Manual,08750,Cataluña
+Mercedes-benz,e 320,7299,318444,2006,Diésel,224.0,ALMENDRALEJO,Automático,06200,Extremadura
+Citroen,c4 cactus,7999,140000,2016,Diésel,99.0,ALMERIA,Manual,04008,Andalucía
+Renault,rafale,45500,11600,2024,Electro/Gasolina,300.0,Pinto,Automático,28320,Madrid
+Mazda,6,7990,187000,2012,Diésel,129.0,HENARES,Manual,28802,Madrid
+Audi,a3,9990,190000,2013,Diésel,150.0,Rei,Manual,08750,Cataluña
+Audi,a4,6950,221000,2006,Diésel,140.0,LLOBREGAT,Manual,08950,Cataluña
+Mercedes-benz,glc 220,35500,119311,2020,Diésel,194.0,BENICARLO,Automático,12580,Comunidad Valenciana
+Toyota,verso,6850,183000,2011,Diésel,126.0,TORREVIEJA,Manual,03181,Comunidad Valenciana
+Peugeot,3008,19390,54000,2021,Electro/Gasolina,224.0,REYES,Automático,28703,Madrid
+Bmw,320,18990,159000,2016,Diésel,190.0,CANARIA,Automático,35013,Canarias
+Chevrolet,camaro,26500,78000,2015,Gasolina,,VALENCIA,Automático,46019,Comunidad Valenciana
+Mazda,3,12490,63139,2017,Gasolina,120.0,GASTEIZ,Manual,01003,País Vasco
+Audi,q3,32750,119632,2021,Diésel,150.0,VACIAMADRID,Automático,28529,Madrid
+Nissan,note,4900,200000,2014,Diésel,90.0,TORREVIEJA,Manual,03182,Comunidad Valenciana
+Land rover,range rover evoque,11899,248500,2014,Diésel,150.0,LLERONA,Automático,08520,Cataluña
+Cupra,ateca,36890,9900,2024,Gasolina,300.0,VALLES,Automático,08150,Cataluña
+Peugeot,408,32990,7250,2024,Electro/Gasolina,224.0,REUS,Automático,43204,Cataluña
+Jeep,avenger,18190,16845,2024,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Fiat,freemont,11899,109985,2015,Diésel,140.0,MONTE,Manual,28660,Madrid
+Lexus,rx 450h,20999,187000,2015,Electro/Gasolina,299.0,MADRID,Automático,28019,Madrid
+Cupra,ateca,36890,9900,2024,Gasolina,300.0,VALLES,Automático,08150,Cataluña
+Peugeot,408,32990,7250,2024,Electro/Gasolina,224.0,REUS,Automático,43204,Cataluña
+Jeep,avenger,18190,16845,2024,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Fiat,freemont,11899,109985,2015,Diésel,140.0,MONTE,Manual,28660,Madrid
+Lexus,rx 450h,20999,187000,2015,Electro/Gasolina,299.0,MADRID,Automático,28019,Madrid
+Volkswagen,golf,13290,118000,2018,Gasolina,116.0,MATARO,Manual,08304,Cataluña
+Mitsubishi,outlander,13999,149714,2018,Diésel,150.0,AGOST,Manual,03698,Comunidad Valenciana
+Audi,a4,11999,95000,2008,Diésel,143.0,IGUALADA,Manual,08700,Cataluña
+Ds automobiles,ds 4,7990,148300,2016,Diésel,120.0,REY,Manual,45280,Castilla-La Mancha
+Jaguar,xf,13990,86143,2016,Diésel,182.0,REI,Automático,08750,Cataluña
+Audi,rs4,49998,120697,2020,Gasolina,450.0,BILBAO,Automático,48010,País Vasco
+Volkswagen,passat,14990,147000,2020,Diésel,150.0,MALAGA,Manual,29001,Andalucía
+Cupra,leon,23850,7554,2024,Gasolina,150.0,Manises,Automático,46940,Comunidad Valenciana
+Mercedes-benz,s 350,14500,340000,2010,Diésel,235.0,RINCONADA,Automático,41309,Andalucía
+Citroen,c3,14200,10,2025,Gasolina,101.0,Villalba,Manual,28400,Madrid
+Nissan,qashqai,22900,9571,2024,Gasolina,140.0,OLEIROS,Manual,15172,Galicia
+Toyota,verso,10990,123862,2014,Diésel,150.0,VILABLAREIX,Automático,17180,Cataluña
+Renault,megane,12475,110890,2021,Diésel,116.0,PARLA,Manual,28983,Madrid
+Tesla,model s,19490,189000,2015,Eléctrico,,BASAURI,Automático,48970,País Vasco
+Nissan,qashqai,9960,140459,2013,Diésel,110.0,BARCELONA,Manual,08028,Cataluña
+Nissan,qashqai,22900,9571,2024,Gasolina,140.0,OLEIROS,Manual,15172,Galicia
+Toyota,verso,10990,123862,2014,Diésel,150.0,VILABLAREIX,Automático,17180,Cataluña
+Tesla,model s,19490,189000,2015,Eléctrico,,BASAURI,Automático,48970,País Vasco
+Nissan,qashqai,9960,140459,2013,Diésel,110.0,BARCELONA,Manual,08028,Cataluña
+Bmw,320,19400,221000,2021,Diésel,190.0,ARROYOMOLINOS,Automático,28939,Madrid
+Mercedes-benz,a 45 amg,36990,46000,2018,Gasolina,381.0,LLOBREGAT,Automático,08950,Cataluña
+Volkswagen,t-cross,14444,31253,2022,Gasolina,95.0,MADRID,Manual,28019,Madrid
+Cupra,formentor,23455,7772,2024,Gasolina,150.0,BARCELONA,Manual,08030,Cataluña
+Bmw,120,5500,198000,2005,Diésel,163.0,MANRESA,Manual,08242,Cataluña
+Cupra,formentor,21950,35309,2024,Gasolina,150.0,CASTRILLÓN,Manual,33459,Asturias
+Bmw,x3,34900,33200,2021,Diésel,190.0,ARROYOMOLINOS,Automático,28939,Madrid
+Bmw,x3,14890,187074,2015,Diésel,190.0,Burlada,Manual,31600,Navarra
+Skoda,fabia,13800,10536,2024,Gasolina,80.0,TARRAGONA,Manual,43006,Cataluña
+Peugeot,rifter,14990,97904,2019,Diésel,99.0,Venturada,Manual,28729,Madrid
+Hyundai,tucson,11999,199000,2017,Diésel,114.0,MALAGA,Manual,29004,Andalucía
+Audi,rs3,49990,62400,2020,Gasolina,400.0,DALT,Automático,08339,Cataluña
+Citroen,c4,7900,54300,2014,Diésel,114.0,TERRASSA,Manual,08226,Cataluña
+Ds automobiles,ds 3,13500,59992,2020,Diésel,99.0,MAJADAHONDA,Automático,28221,Madrid
+Audi,a4,14900,218000,2019,Diésel,150.0,BADAJOZ,Automático,06011,Extremadura
+Renault,zoe,6800,36682,2016,Eléctrico,88.0,Rioja,Automático,26006,La Rioja
+Land rover,range rover evoque,11990,217000,2013,Diésel,150.0,MADRID,Manual,28970,Madrid
+Audi,a7,35390,154316,2019,Diésel,286.0,MADRID,Automático,28021,Madrid
+Mg,hs,18180,10145,2024,Gasolina,162.0,MADRID,Automático,28914,Madrid
+Mercedes-benz,unknown,4800,346000,2004,Diésel,170.0,ALBACETE,Automático,02001,Andalucía
+Volkswagen,beetle,16900,79000,2014,Gasolina,211.0,RIELLS,Automático,08415,Cataluña
+Peugeot,2008,15750,46989,2023,Eléctrico,136.0,CAMARGO,Automático,39600,Cantabria
+Volkswagen,passat,15990,137000,2021,Diésel,120.0,utrera,Automático,41710,Andalucía
+Mercedes-benz,s 500,44000,143221,2016,Gasolina,455.0,MADRID,Automático,28043,Madrid
+Nissan,pixo,3000,60367,2009,Gasolina,68.0,MALAGA,Manual,29004,Andalucía
+Cupra,formentor,22550,24901,2024,Gasolina,150.0,MADRID,Manual,28042,Madrid
+Audi,q3,24490,115851,2019,Gasolina,190.0,Madrid,Automático,28031,Madrid
+Mercedes-benz,unknown,23900,105000,2021,Diésel,160.0,MAR,Automático,04740,Andalucía
+Citroen,c4 cactus,7990,100000,2018,Gasolina,110.0,HENARES,Manual,28805,Madrid
+Mercedes-benz,a 200,25900,62070,2020,Gasolina,163.0,BARCELONA,Automático,08017,Cataluña
+Dacia,duster,11900,33469,2019,Gasolina,114.0,IURRETA,Manual,48215,País Vasco
+Volkswagen,t-roc,17290,126207,2021,Gasolina,150.0,MADRID,Automático,28021,Madrid
+Seat,leon,14990,90259,2021,Diésel,116.0,POBLET,Manual,46930,Comunidad Valenciana
+Citroen,berlingo,9917,99237,2019,Diésel,103.0,POBLET,Automático,46930,Comunidad Valenciana
+Bmw,218,29490,9850,2024,Gasolina,136.0,DALT,Automático,08339,Cataluña
+Bmw,x3,8995,163000,2009,Diésel,177.0,FUENLABRADA,Automático,28940,Madrid
+Seat,leon,14990,90259,2021,Diésel,116.0,POBLET,Manual,46930,Comunidad Valenciana
+Citroen,berlingo,9917,99237,2019,Diésel,103.0,POBLET,Automático,46930,Comunidad Valenciana
+Bmw,218,29490,9850,2024,Gasolina,136.0,DALT,Automático,08339,Cataluña
+Bmw,x3,8995,163000,2009,Diésel,177.0,FUENLABRADA,Automático,28940,Madrid
+Nissan,qashqai,12499,211000,2018,Diésel,131.0,ARDOZ,Manual,28850,Madrid
+Peugeot,308,7490,164542,2019,Diésel,99.0,MOSTOLES,Manual,28938,Madrid
+Mercedes-benz,gle 350,48990,101195,2021,Electro/Diésel,320.0,Málaga,Automático,29004,Andalucía
+Mg,ehs,19791,23255,2023,Electro/Gasolina,162.0,Segarra,Automático,08281,Cataluña
+Renault,clio,3800,148446,2006,Gasolina,98.0,Rioja,Manual,26006,La Rioja
+Volkswagen,t-roc,13000,182600,2019,Diésel,150.0,CADIZ,Manual,11011,Andalucía
+Peugeot,2008,17690,39101,2024,Gasolina,131.0,MADRID,Automático,28021,Madrid
+Renault,clio,5490,185000,2014,Diésel,75.0,Madrid,Manual,28045,Madrid
+Volkswagen,tiguan,22990,69000,2020,Gasolina,150.0,LLOBREGAT,Manual,08820,Cataluña
+Audi,rs4,59999,60000,2019,Gasolina,450.0,PLASENCIA,Manual,10600,Extremadura
+Citroen,c4 cactus,7999,106000,2016,Gasolina,82.0,Rey,Manual,28500,Madrid
+Volkswagen,tiguan,10890,139689,2011,Diésel,140.0,Burlada,Manual,31600,Navarra
+Peugeot,208,13047,15977,2023,Gasolina,102.0,ALICANTE,Automático,03016,Comunidad Valenciana
+Renault,grand scenic,3500,290000,2009,Diésel,131.0,Brujas,Manual,30161,Región de Murcia
+Alfa romeo,stelvio,18800,63101,2017,Diésel,150.0,Rioja,Automático,26006,La Rioja
+Maserati,levante,44800,145158,2019,Gasolina,430.0,MADRID,Automático,28015,Madrid
+Audi,rs4,59999,60000,2019,Gasolina,450.0,PLASENCIA,Manual,10600,Extremadura
+Citroen,c4 cactus,7999,106000,2016,Gasolina,82.0,Rey,Manual,28500,Madrid
+Volkswagen,tiguan,10890,139689,2011,Diésel,140.0,Burlada,Manual,31600,Navarra
+Peugeot,208,13047,15977,2023,Gasolina,102.0,ALICANTE,Automático,03016,Comunidad Valenciana
+Renault,grand scenic,3500,290000,2009,Diésel,131.0,Brujas,Manual,30161,Región de Murcia
+Alfa romeo,stelvio,18800,63101,2017,Diésel,150.0,Rioja,Automático,26006,La Rioja
+Maserati,levante,44800,145158,2019,Gasolina,430.0,MADRID,Automático,28015,Madrid
+Ds automobiles,ds 7 crossback,15490,147000,2018,Gasolina,181.0,Campo,Automático,28840,Madrid
+Bmw,m4,72990,19800,2018,Gasolina,460.0,Reyes,Automático,28703,Madrid
+Toyota,yaris,10800,54322,2019,Gasolina,69.0,Barcelona,Manual,08020,Cataluña
+Volkswagen,passat,18390,117244,2020,Diésel,150.0,BURGOS,Automático,09001,Castilla y León
+Cupra,leon,25364,16223,2023,Gasolina,190.0,BARCELONA,Automático,08030,Cataluña
+Peugeot,3008,15500,97000,2022,Gasolina,131.0,PLANA,Automático,12006,Comunidad Valenciana
+Volvo,xc40,28900,13440,2024,Gasolina,129.0,HENARES,Automático,28805,Madrid
+Cupra,leon,26390,6100,2025,Electro/Gasolina,150.0,VALLES,Automático,08150,Cataluña
+Peugeot,2008,8450,191000,2018,Diésel,99.0,TORREVIEJA,Manual,03181,Comunidad Valenciana
+Hyundai,genesis,19990,148000,2014,Gasolina,315.0,LLOBREGAT,Automático,08820,Cataluña
+Volkswagen,tiguan,23790,47638,2021,Diésel,150.0,LAGUNA,Automático,38108,Canarias
+Renault,megane,8995,149000,2017,Diésel,90.0,CANARIA,Manual,35018,Canarias
+Mercedes-benz,unknown,18490,116800,2019,Diésel,160.0,Campo,Manual,28840,Madrid
+Mercedes-benz,cla 200,36890,5427,2024,Gasolina,163.0,BARCELONA,Automático,08017,Cataluña
+Renault,captur,21990,13476,2024,Gasolina,140.0,SANTANDER,Automático,39011,Cantabria
+Toyota,rav 4,11583,197678,2011,Diésel,150.0,ROZAS,Manual,28232,Madrid
+Hyundai,i20,7299,63119,2013,Gasolina,84.0,BESÒS,Manual,08903,Cataluña
+Jeep,avenger,16390,36162,2024,Gasolina,101.0,MADRID,Automático,28021,Madrid
+Ford,kuga,14990,94162,2018,Gasolina,182.0,REY,Automático,45280,Castilla-La Mancha
+Mini,cooper cabrio,29485,17350,2024,Gasolina,136.0,MAJADAHONDA,Automático,28220,Madrid
+Jaecoo,j7,35990,11,2025,Eléctrico,347.0,Humilladero,Automático,29006,Andalucía
+Mercedes-benz,a 200,16850,188000,2018,Diésel,136.0,MADRID,Automático,28007,Madrid
+Skoda,karoq,16989,33851,2021,Gasolina,116.0,ALBACETE,Automático,02006,Andalucía
+Audi,a6,35990,64000,2019,Electro/Diésel,286.0,GALDAKAO,Automático,48960,País Vasco
+Mercedes-benz,v,29900,178000,2016,Diésel,163.0,MADRID,Automático,28015,Madrid
+Volkswagen,tiguan,22490,125000,2018,Diésel,140.0,Sestao,Manual,48910,País Vasco
+Chevrolet,camaro,54000,6000,2023,Gasolina,461.0,ZARAGOZA,Automático,50197,Aragón
+Hyundai,i20,4950,100000,2010,Gasolina,77.0,TORRENT,Manual,46900,Comunidad Valenciana
+Alfa romeo,spider,7990,117000,2004,Gasolina,165.0,CALATRAVA,Manual,13440,Castilla-La Mancha
+Bmw,535,17000,140185,2006,Diésel,272.0,JAVIER,Automático,30730,Región de Murcia
+Seat,ateca,16990,39564,2021,Gasolina,116.0,HARO,Manual,26200,La Rioja
+Audi,a4,9790,218000,2010,Diésel,143.0,ORDES,Automático,15680,Galicia
+Porsche,cayman,42900,118000,2006,Gasolina,295.0,ALMENAR,Automático,25126,Cataluña
+Seat,ibiza,13332,17206,2021,Gasolina,110.0,BESÒS,Manual,08903,Cataluña
+Skoda,octavia,12900,151000,2020,Diésel,150.0,BADAJOZ,Automático,06011,Extremadura
+Fiat,500l,8990,89836,2018,Gasolina,120.0,HENARES,Manual,28805,Madrid
+Bmw,318,35900,9700,2023,Diésel,150.0,ARROYOMOLINOS,Automático,28939,Madrid
+Bmw,318,37900,15700,2024,Diésel,150.0,MARTOS,Automático,23600,Andalucía
+Renault,scenic,5500,130000,2010,Diésel,106.0,MADRID,Manual,28038,Madrid
+Hyundai,i20,7299,63119,2013,Gasolina,84.0,BESÒS,Manual,08903,Cataluña
+Dacia,sandero,9990,45240,2020,Diésel,95.0,LUGO,Manual,27003,Galicia
+Fiat,tipo,14900,39660,2022,Diésel,131.0,TERRASSA,Manual,08226,Cataluña
+Seat,leon,9490,162280,2020,Diésel,116.0,REY,Manual,45280,Castilla-La Mancha
+Ford,focus,10990,120223,2020,Diésel,120.0,VILABLAREIX,Manual,17180,Cataluña
+Renault,kadjar,10999,139301,2016,Gasolina,132.0,BESÒS,Automático,08903,Cataluña
+Bmw,x1,9000,193108,2011,Diésel,143.0,Málaga,Manual,29004,Andalucía
+Renault,captur,10990,78700,2014,Gasolina,120.0,GANDIA,Automático,46702,Comunidad Valenciana
+Peugeot,unknown,19490,180000,2017,Diésel,116.0,Valdemoro,Manual,28343,Madrid
+Ford,f 150,44400,124326,2018,Gasolina,420.0,ODON,Automático,28670,Madrid
+Opel,crossland,12290,45612,2022,Gasolina,110.0,MADRID,Manual,28021,Madrid
+Mercedes-benz,glk 220,18990,155000,2014,Diésel,170.0,utrera,Automático,41710,Andalucía
+Nissan,juke,16270,33251,2022,Gasolina,114.0,MADRID,Manual,28914,Madrid
+Mercedes-benz,gle 350,47990,127000,2017,Diésel,258.0,LEGANES,Automático,06030,Extremadura
+Volkswagen,golf,15475,99581,2020,Gasolina,131.0,PARLA,Manual,28983,Madrid
+Nissan,juke,16270,33251,2022,Gasolina,114.0,MADRID,Manual,28914,Madrid
+Mercedes-benz,gle 350,47990,127000,2017,Diésel,258.0,LEGANES,Automático,06030,Extremadura
+Mercedes-benz,e 320,6600,314000,2008,Diésel,224.0,YUNCOS,Automático,45210,Castilla-La Mancha
+Toyota,yaris cross,18990,60443,2023,Electro/Gasolina,116.0,MADRID,Automático,28021,Madrid
+Honda,cr-v,8890,241515,2012,Diésel,150.0,ÁVILA,Manual,05004,Andalucía
+Porsche,macan,37900,122000,2016,Diésel,258.0,VIGO,Automático,36214,Galicia
+Peugeot,208,14290,7506,2024,Gasolina,102.0,MADRID,Manual,28021,Madrid
+Lexus,rz,41000,5059,2025,Eléctrico,204.0,LEJON,Automático,48940,País Vasco
+Peugeot,2008,6500,205000,2014,Gasolina,82.0,ZAMORA,Manual,49023,Castilla y León
+Hyundai,kona,15900,79653,2020,Eléctrico,204.0,MADRID,Automático,28914,Madrid
+Cupra,leon,23700,16500,2024,Gasolina,150.0,MOSTOLES,Automático,28936,Madrid
+Porsche,panamera,24999,245000,2012,Diésel,299.0,ELCHE,Automático,03203,Comunidad Valenciana
+Opel,mokka,10475,35000,2016,Gasolina,140.0,Terrassa,Automático,08223,Cataluña
+Citroen,c3 aircross,12400,62779,2023,Diésel,110.0,Paterna,Manual,46980,Comunidad Valenciana
+Mazda,cx-5,18990,80478,2021,Gasolina,165.0,MÁLAGA,Manual,29001,Andalucía
+Nissan,micra,6990,178126,2019,Gasolina,90.0,MOSTOLES,Manual,28938,Madrid
+Volkswagen,golf,16100,54830,2020,Eléctrico,136.0,RIVAS-VACIAMADRID,Automático,28522,Madrid
+Jaguar,f-type,38900,77000,2015,Gasolina,381.0,ALZIRA,Automático,46600,Comunidad Valenciana
+Kia,rio,11985,28236,2020,Gasolina,101.0,TENERIFE,Manual,38108,Canarias
+Volvo,xc90,37791,99673,2020,Diésel,235.0,REY,Automático,45280,Castilla-La Mancha
+Ford,puma,17999,40,2025,Gasolina,125.0,ASPE,Manual,03680,Comunidad Valenciana
+Ford,focus,2999,287000,2007,Diésel,90.0,LEMOS,Manual,27540,Galicia
+Mercedes-benz,viano,20995,217000,2010,Diésel,163.0,MALLORCA,Automático,07180,Baleares
+Peugeot,rifter,14990,57000,2020,Diésel,99.0,TARREGA,Manual,25300,Cataluña
+Ssangyong,torres,25890,10061,2024,Gasolina,163.0,MADRID,Automático,28021,Madrid
+Mercedes-benz,a 180,15490,153000,2017,Diésel,109.0,PARLA,Automático,28982,Madrid
+Toyota,c-hr,17990,66000,2019,Electro/Gasolina,122.0,Canaria,Automático,35004,Canarias
+Audi,a7,38500,131000,2020,Diésel,204.0,SALAMANCA,Automático,37120,Castilla y León
+Volvo,xc90,8700,258000,2004,Diésel,163.0,PAMPLONA,Automático,31014,Navarra
+Bmw,x1,20150,97711,2022,Diésel,116.0,ALICANTE,Manual,03006,Comunidad Valenciana
+Audi,a3,7999,230000,2008,Gasolina,125.0,GRAMANET,Manual,08921,Cataluña
+Bmw,x5,20461,168286,2013,Diésel,306.0,ROZAS,Automático,28232,Madrid
+Nissan,pulsar,8333,94054,2016,Gasolina,116.0,Leganés,Manual,28914,Madrid
+Dacia,sandero,8500,39610,2019,Gasolina,75.0,TENERIFE,Manual,38007,Canarias
+Mercedes-benz,s 63 amg,59900,110000,2017,Gasolina,585.0,SEGURA,Automático,30500,Región de Murcia
+Ford,focus,15000,10000,2020,Gasolina,250.0,ZARATAN,Manual,47610,Castilla y León
+Mercedes-benz,e 250,23890,119175,2021,Gasolina,218.0,REY,Automático,28500,Madrid
+Citroen,c4,13190,128042,2021,Diésel,131.0,MADRID,Automático,28021,Madrid
+Mercedes-benz,s 350,23900,140000,2012,Diésel,258.0,LLOBREGAT,Automático,08023,Cataluña
+Mercedes-benz,gla 200,21900,56000,2018,Gasolina,156.0,MATARÓ,Automático,08302,Cataluña
+Jeep,avenger,17850,48820,2023,Gasolina,101.0,COMPOSTELA,Manual,15820,Galicia
+Skoda,octavia,5490,180000,2007,Diésel,105.0,IURRETA,Manual,48215,País Vasco
+Lexus,es 300,32990,46000,2019,Electro/Gasolina,218.0,LEGANÉS,Automático,28914,Madrid
+Mercedes-benz,cla 180,29990,10606,2022,Gasolina,136.0,TENERIFE,Manual,38007,Canarias
+Mercedes-benz,cla 200,37990,67500,2022,Diésel,150.0,XERACO,Automático,46770,Comunidad Valenciana
+Ford,kuga,14999,149000,2018,Diésel,150.0,BARCELONA,Manual,08019,Cataluña
+Seat,ateca,11990,189000,2021,Diésel,116.0,REY,Manual,45280,Castilla-La Mancha
+Cupra,formentor,22250,30601,2024,Gasolina,150.0,CASTRILLÓN,Manual,33459,Asturias
+Audi,a6,7950,230000,2006,Diésel,179.0,TORRIJOS,Manual,45500,Castilla-La Mancha
+Peugeot,208,5999,179000,2015,Diésel,75.0,PINTO,Manual,28320,Madrid
+Skoda,octavia,16690,109664,2022,Diésel,150.0,MADRID,Automático,28021,Madrid
+Mercedes-benz,b 170,9900,81200,2009,Gasolina,116.0,VENDRELL,Manual,43700,Cataluña
+Volvo,v40,7990,214987,2015,Diésel,114.0,REY,Manual,45280,Castilla-La Mancha
+Mercedes-benz,c 300,39000,50000,2024,Electro/Diésel,231.0,PALAFRUGELL,Automático,17200,Cataluña
+Mercedes-benz,c 200,24590,134359,2020,Diésel,160.0,MADRID,Automático,28021,Madrid
+Nissan,qashqai,22900,19000,2023,Gasolina,140.0,CORDOBA,Manual,14014,Andalucía
+Seat,leon,7900,168000,2007,Diésel,170.0,PALAFRUGELL,Automático,17200,Cataluña
+Opel,corsa,11790,27779,2023,Gasolina,101.0,MADRID,Manual,28021,Madrid
+Mercedes-benz,s 350,45453,99620,2019,Diésel,286.0,MADRID,Automático,28649,Madrid
+Kia,sportage,21957,30831,2024,Gasolina,162.0,LEGANES,Manual,28914,Madrid
+Volkswagen,touareg,18900,112000,2011,Diésel,245.0,Tarragona,Automático,43710,Cataluña
+Mercedes-benz,v 250,36900,159000,2018,Diésel,190.0,VALLADOLID,Automático,47016,Castilla y León
+Ds automobiles,ds 3,20900,23252,2023,Diésel,131.0,VIGO,Automático,36214,Galicia
+Volvo,xc40,23900,132400,2019,Diésel,190.0,ARROYOMOLINOS,Automático,28939,Madrid
+Audi,rs3,48995,42000,2019,Gasolina,400.0,Ajalvir,Automático,28864,Madrid
+Ford,tourneo connect,10690,145000,2020,Diésel,101.0,MOSTOLES,Manual,28933,Madrid
+Seat,ibiza,10490,60532,2020,Gasolina,95.0,POBLET,Manual,46930,Comunidad Valenciana
+Audi,q5,32750,84000,2020,Electro/Gasolina,367.0,ROZAS-EUROPOLIS,Automático,28232,Madrid
+Renault,kadjar,10999,139301,2016,Gasolina,132.0,MADRID,Automático,28050,Madrid
+Mercedes-benz,glc 220,24200,177000,2018,Diésel,170.0,MALAGA,Automático,29003,Andalucía
+Byd,dolphin,23500,4350,2025,Eléctrico,204.0,MERIDA,Automático,06800,Extremadura
+Peugeot,208,14590,6140,2024,Gasolina,102.0,MADRID,Manual,28021,Madrid
+Bmw,318,15900,139244,2017,Diésel,150.0,Madrid,Automático,28031,Madrid
+Mg,mg3,15900,50,2025,Gasolina,116.0,Oviedo,Manual,33010,Asturias
+Land rover,range rover evoque,17990,160500,2018,Diésel,150.0,Sestao,Automático,48910,País Vasco
+Ford,kuga,8899,272000,2013,Diésel,140.0,ALMENDRALEJO,Manual,06200,Extremadura
+Peugeot,3008,13980,225000,2017,Diésel,181.0,CAMPO,Automático,28840,Madrid
+Peugeot,2008,15895,33844,2023,Gasolina,131.0,MALLORCA,Automático,07008,Baleares
+Opel,insignia,12990,144415,2020,Diésel,136.0,ZARAGOZA,Manual,50005,Aragón
+Ford,tourneo connect,10690,145000,2020,Diésel,101.0,MOSTOLES,Manual,28933,Madrid
+Seat,ibiza,10490,60532,2020,Gasolina,95.0,POBLET,Manual,46930,Comunidad Valenciana
+Audi,q5,32750,84000,2020,Electro/Gasolina,367.0,ROZAS-EUROPOLIS,Automático,28232,Madrid
+Mercedes-benz,glc 220,24200,177000,2018,Diésel,170.0,MALAGA,Automático,29003,Andalucía
+Byd,dolphin,23500,4350,2025,Eléctrico,204.0,MERIDA,Automático,06800,Extremadura
+Peugeot,208,14590,6140,2024,Gasolina,102.0,MADRID,Manual,28021,Madrid
+Bmw,318,15900,139244,2017,Diésel,150.0,Madrid,Automático,28031,Madrid
+Mg,mg3,15900,50,2025,Gasolina,116.0,Oviedo,Manual,33010,Asturias
+Land rover,range rover evoque,17990,160500,2018,Diésel,150.0,Sestao,Automático,48910,País Vasco
+Ford,kuga,8899,272000,2013,Diésel,140.0,ALMENDRALEJO,Manual,06200,Extremadura
+Peugeot,3008,13980,225000,2017,Diésel,181.0,CAMPO,Automático,28840,Madrid
+Opel,insignia,12990,144415,2020,Diésel,136.0,ZARAGOZA,Manual,50005,Aragón
+Citroen,c5 aircross,12627,114464,2020,Gasolina,131.0,Málaga,Manual,29004,Andalucía
+Kia,ceed / cee'd,16360,16745,2024,Gasolina,101.0,MADRID,Manual,28914,Madrid
+Mercedes-benz,unknown,4990,150000,2000,Gasolina,163.0,YUNCOS,Automático,45210,Castilla-La Mancha
+Alfa romeo,stelvio,24990,104000,2019,Diésel,209.0,Reina,Automático,37184,Castilla y León
+Peugeot,5008,13990,173000,2017,Diésel,120.0,PARLA,Manual,28982,Madrid
+Bmw,530,44990,6809,2024,Electro/Gasolina,299.0,MADRID,Automático,28002,Madrid
+Volkswagen,taigo,16900,52583,2023,Gasolina,110.0,Paterna,Manual,46980,Comunidad Valenciana
+Volkswagen,tiguan,14500,144225,2016,Diésel,150.0,ÁVILA,Manual,05004,Andalucía
